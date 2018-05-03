@@ -16,6 +16,8 @@ WIN_COMBINATIONS = [
 
 def won?(arr)
   if condition
-
+    
+  else
+    false
   end
 end
