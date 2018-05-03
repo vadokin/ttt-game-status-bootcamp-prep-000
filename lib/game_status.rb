@@ -15,10 +15,12 @@ WIN_COMBINATIONS = [
 ]
 
 def won?(arr)
-  
-  
+  arr.each do |variable|
+
+  end
+
   if condition
-    
+
   else
     false
   end
