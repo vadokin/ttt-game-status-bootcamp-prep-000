@@ -15,13 +15,5 @@ WIN_COMBINATIONS = [
 ]
 
 def won?(arr)
-  WIN_COMBINATIONS.each do |win_comb|
-    
-  end
-
-  if condition
-
-  else
-    false
-  end
+  
 end
