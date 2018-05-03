@@ -15,7 +15,7 @@ WIN_COMBINATIONS = [
 ]
 
 def won?(arr)
-  arr.each do |variable|
+  WIN_COMBINATIONS.each do |variable|
 
   end
 
